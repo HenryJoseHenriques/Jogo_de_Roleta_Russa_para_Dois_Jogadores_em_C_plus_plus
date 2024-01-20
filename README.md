@@ -1,0 +1,1 @@
+Jogo de roleta russa feito em linguagem C++ baseado no jogo indie Buckshot Roulette criado com o objetivo de reforçar os conhecimentos em C++ aprendidos durante a disciplina de Algoritmos e Programação II do curso de Engenheria de Computação da UNIVALI.
